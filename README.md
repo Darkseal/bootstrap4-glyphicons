@@ -2,6 +2,8 @@
 
 How to use Glyphicons with Bootstrap 4 (without getting mad)
 
+For further info & samples, read the [official page](https://www.ryadel.com/en/bootstrap-3-glyphicons-halflings-set-bootstrap4-fontawesome/).
+
 ## Introduction
 
 If you stumbled upon this project you most likely already know Bootstrap, the award-winning and worldwide-renown open source toolkit for developing with HTML, CSS, and JS. As a matter of fact, you are probably struggling trying to switch from from Bootstrap 3 to Bootstrap 4. Among the many things that have changed (mostly summarized in the [official Migration guide](http://getbootstrap.com/docs/4.0/migration/)) there was the choice to drop the Glyphicons icon font. 
