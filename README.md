@@ -41,7 +41,7 @@ However, if you're dealing with an existing project which makes an extensive use
 This package can be used in two alternative ways: **Bootstrap 4+3** and **FontAwesome Mapping**.
 
 
-## #1: Bootstrap 4+3
+### Method #1: Bootstrap 4+3
 
 This workaround leverages the fact that you can still use Bootstrap 3.x **in addition** to Bootstrap 4 without any issue of sort, as long as you only get only the "glyphicon part". You won't have any license issues, since you'll be actually using Bootstrap 3. 
 
@@ -52,7 +52,7 @@ To implement this workaround, install the package into your web site and add the
 That's it.
 
 
-## #2: FontAwesome Mapping
+### Method #2: FontAwesome Mapping
 
 Since any Glyphicon image has (more or less) their FontAwesome equivalent, we can map the various `glyphycons*` css classes to their `fa*` equivalent. This is the purpose of the file you can find in `/maps/glyphicons-fontawesome.less` , which will act as a transparent mapping bridge between **Glyphicon** and **FontAwesome**. 
 
