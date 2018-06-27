@@ -49,7 +49,7 @@ This workaround leverages the fact that you can still use Bootstrap 3.x **in add
 
 To implement this workaround, install the package into your web site and add the following within the `<head>` element:
 
-    <link href="/bootstrap4-glyphicons/css/bootstrap-glyphicons.min.css")" rel="stylesheet" type="text/css" />
+    <link href="/bootstrap4-glyphicons/css/bootstrap-glyphicons.min.css" rel="stylesheet" type="text/css" />
 
 That's it.
 
@@ -60,7 +60,7 @@ Since any Glyphicon image has (more or less) their FontAwesome equivalent, we ca
 
 To implement this workaround, install the package into your web site and add the following within the `<head>` element:
 
-    <link href="/bootstrap4-glyphicons/maps/glyphicons-fontawesome.min.css")" rel="stylesheet" type="text/css" />
+    <link href="/bootstrap4-glyphicons/maps/glyphicons-fontawesome.min.css" rel="stylesheet" type="text/css" />
 
 The only caveat here is that you'll have to use the font-based icons instead of the SVG alternative (see above), but if you're a Glyphicon user you won't suffer from that: there's a much higher chance that you won't like the "new" icons... If you feel like that, just implement the **Bootstrap 4+3** alternative instead.
 
