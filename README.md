@@ -34,7 +34,7 @@ to something like this (in case of **FontAwesome**):
 
 ## Alternatives
 
-If you're building a brand new project, I strongly suggest to drop the Glyphicons package and to migrate to FontAwesome: not only you'll have more icons, but you'll also have the chance to seamlessly switch from Font icons to SVG icons,  which is something that you will hardly ever regret (in case you don't know why, read here).
+If you're building a brand new project, I strongly suggest to drop the Glyphicons package and to migrate to FontAwesome: not only you'll have more icons, but you'll also have the chance to seamlessly switch from Font icons to SVG icons,  which is something that you will hardly ever regret (in case you don't know why, read [here](https://www.ianfeather.co.uk/ten-reasons-we-switched-from-an-icon-font-to-svg/)).
 
 However, if you're dealing with an existing project which makes an extensive use of the Glyphicons Halflings set, you can install this package containing two viables workaround.
 
